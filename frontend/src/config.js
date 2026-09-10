@@ -4,7 +4,7 @@
 
 // URL principal del backend
 export const API_SERVER_URL =
-    "http://localhost:3002";
+    "https://gamevault-api-tjsy.onrender.com";
 
 
 // URL utilizada para las operaciones CRUD
